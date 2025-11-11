@@ -35,8 +35,8 @@ Visualize and compare original, noisy, and denoised images.
 
 
 ## PROGRAM
-### Name: KANNAN S
-### Register Number: 212223230098
+### Name: Naveen Kumar.R
+### Register Number: 212223230139
 
 ```py
 class DenoisingAutoencoder(nn.Module):
@@ -131,12 +131,14 @@ def visualize_denoising(model, loader, num_images=10):
 
 ### Model Summary
 
-<img width="671" height="479" alt="image" src="https://github.com/user-attachments/assets/54073fab-b6e7-4651-8871-16ac0b7050f3" />
+<img width="825" height="373" alt="image" src="https://github.com/user-attachments/assets/0a005544-4686-4a5d-9776-e8176dd07f3f" />
+
 
 
 ### Original vs Noisy Vs Reconstructed Image
 
-<img width="1695" height="665" alt="image" src="https://github.com/user-attachments/assets/9847c933-84f2-4cf0-ad1a-e60eca28d732" />
+<img width="1793" height="650" alt="image" src="https://github.com/user-attachments/assets/1751e3ae-8e72-4468-8be3-f438814c35cb" />
+
 
 
 
